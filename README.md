@@ -1,6 +1,6 @@
 # operations-kpi-dashboard
 Excel-based Operations KPI Dashboard
-# Operations KPI & Inventory Dashboard
+# Operations KPI Dashboard
 
 ## Overview
 
